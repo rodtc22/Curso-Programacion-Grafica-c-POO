@@ -1,0 +1,7 @@
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clasePOO\clasePOO\bin\Debug\clasePOO.exe
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clasePOO\clasePOO\bin\Debug\clasePOO.pdb
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clasePOO\clasePOO\obj\Debug\clasePOO.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clasePOO\clasePOO\obj\Debug\clasePOO.exe
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clasePOO\clasePOO\obj\Debug\clasePOO.pdb
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clasePOO\clasePOO\obj\Debug\clasePOO.MainForm.resources
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clasePOO\clasePOO\obj\Debug\clasePOO.csproj.GenerateResource.Cache

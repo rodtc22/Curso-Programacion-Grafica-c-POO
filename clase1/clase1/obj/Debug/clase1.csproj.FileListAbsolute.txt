@@ -1,0 +1,7 @@
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clase1\clase1\bin\Debug\clase1.exe
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clase1\clase1\bin\Debug\clase1.pdb
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clase1\clase1\obj\Debug\clase1.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clase1\clase1\obj\Debug\clase1.MainForm.resources
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clase1\clase1\obj\Debug\clase1.csproj.GenerateResource.Cache
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clase1\clase1\obj\Debug\clase1.exe
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\clase1\clase1\obj\Debug\clase1.pdb

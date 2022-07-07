@@ -65,7 +65,7 @@ namespace clase1
 			this.buttonSaludar.FlatAppearance.BorderSize = 0;
 			this.buttonSaludar.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
 			this.buttonSaludar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-			this.buttonSaludar.Location = new System.Drawing.Point(524, 264);
+			this.buttonSaludar.Location = new System.Drawing.Point(373, 137);
 			this.buttonSaludar.Name = "buttonSaludar";
 			this.buttonSaludar.Size = new System.Drawing.Size(97, 91);
 			this.buttonSaludar.TabIndex = 1;

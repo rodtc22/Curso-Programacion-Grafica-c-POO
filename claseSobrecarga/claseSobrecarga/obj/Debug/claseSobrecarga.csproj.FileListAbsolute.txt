@@ -1,0 +1,7 @@
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga\claseSobrecarga\obj\Debug\claseSobrecarga.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga\claseSobrecarga\obj\Debug\claseSobrecarga.MainForm.resources
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga\claseSobrecarga\obj\Debug\claseSobrecarga.csproj.GenerateResource.Cache
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga\claseSobrecarga\bin\Debug\claseSobrecarga.exe
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga\claseSobrecarga\bin\Debug\claseSobrecarga.pdb
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga\claseSobrecarga\obj\Debug\claseSobrecarga.exe
+C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga\claseSobrecarga\obj\Debug\claseSobrecarga.pdb

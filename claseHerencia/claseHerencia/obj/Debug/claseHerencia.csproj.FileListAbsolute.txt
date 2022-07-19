@@ -1,0 +1,8 @@
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\bin\Debug\claseHerencia.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\bin\Debug\claseHerencia.pdb
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\obj\Debug\claseHerencia.csprojResolveAssemblyReference.cache
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\obj\Debug\claseHerencia.MainForm.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\obj\Debug\claseHerencia.csproj.GenerateResource.Cache
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\obj\Debug\claseHerencia.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\obj\Debug\claseHerencia.pdb
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseHerencia\claseHerencia\obj\Debug\claseHerencia.Consola.resources

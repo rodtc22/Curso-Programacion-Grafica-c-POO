@@ -15,3 +15,13 @@ C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga2\claseSobrec
 C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.VentanaMostrarProductos.resources
 C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.VentanaEditarDatos.resources
 C:\Users\rodri\Desktop\CLASE INTERFAZ SHARP DEVELOP\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.VentanaAgregaProductos.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\bin\Debug\claseSobrecarga.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\bin\Debug\claseSobrecarga.pdb
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.csprojResolveAssemblyReference.cache
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.MainForm.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.VentanaAgregaProductos.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.VentanaEditarDatos.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.VentanaMostrarProductos.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.csproj.GenerateResource.Cache
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseSobrecarga2\claseSobrecarga\obj\Debug\claseSobrecarga.pdb

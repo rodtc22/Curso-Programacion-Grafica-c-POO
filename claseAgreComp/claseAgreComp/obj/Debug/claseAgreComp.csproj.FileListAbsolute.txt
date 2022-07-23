@@ -1,0 +1,7 @@
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseAgreComp\claseAgreComp\bin\Debug\claseAgreComp.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseAgreComp\claseAgreComp\bin\Debug\claseAgreComp.pdb
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseAgreComp\claseAgreComp\obj\Debug\claseAgreComp.csprojResolveAssemblyReference.cache
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseAgreComp\claseAgreComp\obj\Debug\claseAgreComp.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseAgreComp\claseAgreComp\obj\Debug\claseAgreComp.pdb
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseAgreComp\claseAgreComp\obj\Debug\claseAgreComp.MainForm.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\claseAgreComp\claseAgreComp\obj\Debug\claseAgreComp.csproj.GenerateResource.Cache

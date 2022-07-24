@@ -1,0 +1,7 @@
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\clasePersistencia\clasePersistencia\obj\Debug\clasePersistencia.csprojResolveAssemblyReference.cache
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\clasePersistencia\clasePersistencia\bin\Debug\clasePersistencia.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\clasePersistencia\clasePersistencia\bin\Debug\clasePersistencia.pdb
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\clasePersistencia\clasePersistencia\obj\Debug\clasePersistencia.exe
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\clasePersistencia\clasePersistencia\obj\Debug\clasePersistencia.pdb
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\clasePersistencia\clasePersistencia\obj\Debug\clasePersistencia.MainForm.resources
+C:\Users\rodrix\Desktop\Curso-Programacion-Grafica-sharpDevelop-POO\clasePersistencia\clasePersistencia\obj\Debug\clasePersistencia.csproj.GenerateResource.Cache
